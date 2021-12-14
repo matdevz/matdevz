@@ -27,6 +27,6 @@
  
 </div>
 
-  ##Sobre mim
+  ### Sobre mim
   
   Tenho 16 anos sou apaixonado em tecnologias, desde de pequeno era curioso e queria entender como funcionava as coisas. Amante da estética aos 14 anos de idade iniciei no mundo do design, fiz alguns trabalhos freelance mais só por diversão. No ano de 2021 iniciei em uma carreira que prentendo levar pro resta da vida, PROGRAMAÇÃO. Amo essa área e gosto de aprender cada vez mais e me tornar um programador Full Stack de qualidade!
