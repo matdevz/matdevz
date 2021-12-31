@@ -17,6 +17,8 @@
   <img align="center" alt="Mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">  
 </div>
   
+
+[![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=matdevz&theme=dracula&custom_title=Contribution+Graph)](https://github.com/matdevz)
    ##
  
 <div> 
