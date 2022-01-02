@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFEF10&lines=Mateus+Henrique)](https://github.com/matdevz)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFEFF0&lines=Mateus+Henrique)](https://github.com/matdevz)
 
 <div align="center">
   <a href="https://github.com/matdevz">
