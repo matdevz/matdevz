@@ -1,4 +1,8 @@
-## 👨🏾‍💻 My name is [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFEEFFf&lines=Mateus+Henrique)](https://github.com/matdevz) I'm a Full Stack JavaScript Developer.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF0000f&lines=Mateus+Henrique)](https://github.com/matdevz) I'm a Full Stack JavaScript Developer.
+
+
+
+## 👨🏾‍💻 My name is Mateus Henrique I'm a Full Stack JavaScript Developer.
 
 
 <div align="center">
