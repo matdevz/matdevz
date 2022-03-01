@@ -12,10 +12,6 @@
 
 [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=matdevz&theme=dracula&custom_title=Contribution+Graph)](https://github.com/matdevz)
    ##
-
- 
-  
- ##
  
 <div> 
   <a href="https://www.youtube.com/channel/UC-60rOmwaLp0yOOKU1Xf7VQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
