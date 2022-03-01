@@ -8,7 +8,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matdevz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-   ##
 
 [![rizad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=matdevz&theme=dracula&custom_title=Contribution+Graph)](https://github.com/matdevz)
    ##
