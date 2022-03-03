@@ -22,7 +22,7 @@
 <div>
     <p>Passionate about technology and programming lover, I was curious since I was little, I liked to learn, to understand how everything worked and this way of being made me open my mind and start looking at the world in another way. When I was 16 years old looking for how to create a game I discovered this fantastic area of ​​programming, because I always like to help people, it made me feel this affection that I have, because most of the time this is my job "Solving a problem".</p>
 </div>
-#
+
 
 ## Technology 🌐
 
