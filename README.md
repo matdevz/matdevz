@@ -7,7 +7,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matdevz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matdevz&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matdevz&langs_count=8&theme=dracula"/>
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matdevz&langs_count=8)](https://github.com/matdevz/github-readme-stats)
    
 </div>
 
